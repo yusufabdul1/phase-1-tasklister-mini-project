@@ -68,9 +68,9 @@ function addTask(task) {
   if (priority === "high") {
       newTask.style.color = "red";
   } else if (priority === "medium") {
-      newTask.style.color = "yellow";
+      newTask.style.color = "purple";
   } else {
-      newTask.style.color = "green";
+      newTask.style.color = "lime";
   }
 
   const deleteButton = document.createElement("button");
