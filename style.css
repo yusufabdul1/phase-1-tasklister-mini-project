@@ -129,7 +129,7 @@ input[type="text"]:focus, select:focus {
 #list {
   margin-top: 30px;
   padding: 20px;
-  background-color: #6b6b6b;
+  background-color: #f9f9f9;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -173,7 +173,7 @@ button.delete:hover {
 
 /* Footer */
 footer {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 footer img {
